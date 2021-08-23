@@ -70,3 +70,7 @@ nav ul li a {
 .indicator {
   margin-top: 150px;
 }
+
+.indicator span.active {
+  background: #bfbfbf;
+}
