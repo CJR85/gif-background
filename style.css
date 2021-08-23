@@ -40,3 +40,8 @@ nav ul li a {
   color: #fff;
   text-decoration: none;
 }
+
+.hero h1 {
+  font-size: 75px;
+  margin-top: 12%;
+}
